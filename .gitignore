@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# El dataset pesa ~150 MB: cada integrante lo descarga de Kaggle
+creditcard.csv
+
+# Resultados generados al correr el proyecto
+figuras/
